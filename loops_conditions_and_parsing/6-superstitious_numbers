@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Creates a script that displays nubers and text from 1 to 20
+#Creates a script that displays numbers and text from 1 to 20
 n=1
 while [ $n -le 20 ]
 do
