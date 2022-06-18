@@ -1,4 +1,4 @@
-#!/usr/bin/envy bash
+#!/usr/bin/env bash
 #Displays script the prints some text on a long format
 n=1
 while [ $n -le 10 ]
