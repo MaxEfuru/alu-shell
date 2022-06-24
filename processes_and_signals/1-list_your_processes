@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # this script displays a list of the current running processes
 # must show all processes, for all users, including those might not have a TTY
 # display in a user-oriented format
